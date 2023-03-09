@@ -1,0 +1,25 @@
+
+//steps
+1 Install Angular CLI
+2 Create New Angular Project in the
+3 Create New Angular Service
+4 Import HttpClientModule in App Module
+5 Setup Mock JSON Server
+5.i) Install json-server
+5.ii) Create a json file
+5.iii) Start mock server
+6  CRUD Method in Service Class
+7  Consum Service and CRUD Methods in Component 
+
+ STEPS TO MAKE CRUD IN ANGULAR
+1-INSTALL ANGULAR CLI
+2-CRAETE A NEW PROJECT
+3-CREATE ANGULAR SERVICES
+4-IMPORT HttpClient Module
+5-Setup Mock Json Server
+- Install json Server
+-create a json file
+-Start mock server
+6-CRUD method in Service class
+7-Consume Service and CRUD Methods in Componenet ng g s service-crud-http
+import HttpClientModule into app.moddule.ts

@@ -1,0 +1,33 @@
+{
+  "employee": [
+    {
+      "id": 2,
+      "name": "vishal",
+      "address": "JHARKHAND",
+      "phone": "1234567890",
+      "country": "india"
+    },
+    {
+      "id": 3,
+      "name": "prishiv",
+      "address": "J&K",
+      "phone": "2345638449",
+      "country": "india"
+    },
+    {
+      "id": 4,
+      "empname": "vivek",
+      "address": "Delhi",
+      "phone": "834526457",
+      "country": "india",
+      "name": "vivek"
+    },
+    {
+      "id": 5,
+      "name": "akash",
+      "address": "bihar",
+      "phone": "1234567890",
+      "country": "india"
+    }
+  ]
+}
